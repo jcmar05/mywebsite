@@ -3,6 +3,13 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  cursor: url("https://static.thenounproject.com/png/4778723-200.png")
+}
+
+#Title {
+  color: blue;
+  font-family: "Times New Roman", Times, serif;
+
 }
 
 .logo {
@@ -40,3 +47,8 @@
 .read-the-docs {
   color: #888;
 }
+
+.cursor{
+  cursor: pointer; 
+}
+
